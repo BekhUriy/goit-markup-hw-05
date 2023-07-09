@@ -740,12 +740,11 @@ img {
 
 .modal-subscribe {
   display: flex;
-  /* position: relative; */
+  gap: 24px;
 }
 .modal-subscribe-field {
-  gap: 24px;
-  /* position: relative; */
 }
+
 .modal-subscribe-label {
   display: block;
   position: relative;
@@ -757,7 +756,7 @@ img {
   margin-bottom: 16px;
 }
 .modal-subscribe-input {
-  widows: 264px;
+  width: 264px;
   height: 40px;
   border: 1px solid #ffffff;
   color: #ffffff;
