@@ -888,7 +888,7 @@ img {
   letter-spacing: 0.04em;
   color: #8e8f99;
   display: block;
-  /* margin-bottom: 4px; */
+  margin-bottom: 4px;
 }
 
 .modal-form-label {
@@ -916,7 +916,7 @@ img {
 }
 
 .modal-form-input:focus {
-  border-color: 1px solid #4d5ae5;
+  border: 1px solid #4d5ae5;
 }
 
 .modal-form-icon {
@@ -947,5 +947,5 @@ img {
 }
 
 .textarea:focus {
-  border-color: #4d5ae5;
+  border: #4d5ae5;
 }
