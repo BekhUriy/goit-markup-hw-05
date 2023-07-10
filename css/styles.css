@@ -954,7 +954,10 @@ img {
 }
 
 .textarea:focus {
-  border: #4d5ae5;
+  border: 1px solid #4d5ae5;
+}
+::placeholder {
+  color: #8e8f99;
 }
 
 .container-checkbox {
