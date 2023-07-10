@@ -961,6 +961,7 @@ img {
   margin-bottom: 24px;
 }
 .form-input {
+  display: flex;
 }
 .visually-hidden {
 }
